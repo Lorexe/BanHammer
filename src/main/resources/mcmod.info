@@ -1,0 +1,17 @@
+[
+{
+  "modid": "banhammer",
+  "name": "BanHammer",
+  "description": "Add modifiers to TConstruct for execute a ban or a kick",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lorexe"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["tconstruct"],
+  "dependencies": ["tconstruct"]
+}
+]

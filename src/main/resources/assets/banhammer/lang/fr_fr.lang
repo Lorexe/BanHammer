@@ -1,0 +1,11 @@
+# Items
+item.ban_modifier.name=Modificateur Marteau du Ban
+item.kick_modifier.name=Modificateur Marteau du Kick
+
+itemGroup.banhammer=BanHammer
+
+# TConstruct Modifier
+modifier.banhammer.ban.name=Marteau du Ban
+modifier.banhammer.ban.desc=Le plaisir de courir après un joueur pour le ban est arrivé !
+modifier.banhammer.kick.name=Marteau du Kick
+modifier.banhammer.kick.desc=Frappe le joueur pour le kick :)
